@@ -2,8 +2,6 @@ import './App.css'
 import FeedbackForm from './components/formData'
 
 function App() {
-
-
   return (
     <>
       <FeedbackForm/>
@@ -11,4 +9,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
